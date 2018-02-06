@@ -136,10 +136,10 @@ execute \
     "Is git installed?" \
     --error \
     "Does '$ZPLUG_HOME' already exist?" \
-    "git clone https://github.com/zplug/zplug.git $ZPLUG_HOME"
+    "git clone https://github.com/ev0rtex/zplug.git $ZPLUG_HOME"
 
 
 printf " All processes are successfully completed \U1F389\n"
-printf " For more information, see ${(%):-%U}http://zplug.sh${(%):-%u} \U1F33A\n"
+printf " For more information, see ${(%):-%U}https://github.com/ev0rtex${(%):-%u} \U1F33A\n"
 printf " Enjoy zplug!\n"
 
